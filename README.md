@@ -4,7 +4,7 @@ I am working on a bot that downloads whatever you are currently listening to on 
 The bot will download the new track when the link of the tab changes so it will not download the first song you listen too
 so I recommend starting it before you play and enlarge it.
 
-the link of an .exe file, I know it gives virus warning and im working on it going away trust me its safe.
+LINK TO AN .EXE FILE, I know it gives virus warning and im working on it going away trust me its safe.
 https://drive.google.com/file/d/1JDYKUKcfUj7ptoEPstgXHDBBLIKT9r24/view?usp=sharing
 
 Instructions: 
