@@ -1,5 +1,5 @@
 # YoutubeMusic-Bot
-The bot download's the new track when the link of the tab changes.
+The bot downloads a new track when the link of the tab changes.
 
 LINK TO AN .EXE FILE
 https://drive.google.com/file/d/1JDYKUKcfUj7ptoEPstgXHDBBLIKT9r24/view?usp=sharing
